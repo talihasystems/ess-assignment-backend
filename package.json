@@ -1,0 +1,20 @@
+{
+  "name": "essbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongodb": "^4.12.1",
+    "moongose": "^1.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
